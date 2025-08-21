@@ -32,3 +32,8 @@ Shooting and Defense: Players shoot their assigned colored bullets at their oppo
 
 
 Winning Condition: The round ends when one player's gauge reaches 100%. The winner gains a point, and a new round begins with players reselecting their unfavorable colors and the distributor providing a new set of bullets.
+
+
+
+
+In another version of the game the player has another type of gun ( a gun that can shoot outside the board to waist a bullet of color )  still the player cant control the gun.
