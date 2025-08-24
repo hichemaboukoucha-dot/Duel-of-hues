@@ -37,3 +37,4 @@ Winning Condition: The round ends when one player's gauge reaches 100%. The winn
 
 
 In another version of the game the player has another type of gun ( a gun that can shoot outside the board to waist a bullet of color )  still the player cant control the gun.
+Players win titles along the way like (Combo in 3  rounds of superiority in score in succession)
